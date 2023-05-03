@@ -62,3 +62,6 @@
 ## 2023-05-02
 - pull 명령어 : 원격 저장소로부터 변경사항을 로컬저장소로 가져옴
     - `git pull [remote] [branch]` = `git pull origin main`
+
+## 2023-05-03
+- 프로젝트에 DB 구축하기 => SQLite
